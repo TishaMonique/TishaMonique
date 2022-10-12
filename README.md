@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Latisha (@TishaMonique). Friends call me Tish or Tisha.  I'm a multi-skilled experienced business support specialist. I am a recent graduate earning a B.S. in Business Systems from East Carolina University in Greenville, NC (May 2022). 
 
-- 👀 I'm pursuing a career transition into software development support. Roles of interest include: QA testing, business analyst (PO), or technical writing. 
+- 👀 I'm pursuing a career transition into software development support. Roles of interest include: business analyst (PO), user/customer onboarding and product education, QA (UAT), or technical writing. 
 
 - 🌱 Currently, I am engaging in regular self-study to learn software develop support skills to prepare for entry-level roles.
 
