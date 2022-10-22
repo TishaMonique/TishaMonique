@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Latisha (@TishaMonique). Friends call me Tish or Tisha.  I'm a multi-skilled experienced business support specialist. I am a recent graduate earning a B.S. in Business Systems from East Carolina University in Greenville, NC (May 2022). 
 
-- 👀  I would like to offer my unique blend of experiences to a learning experience design, SaaS, or product development team. Industries of interest include fintech, blockchain, real estate, eCommerce. Roles of interest include learning experience design, user training or on-boarding, business analyst, UX research, UX writing, or user testing. If you would like to talk about any of these potential areas of interest, then please feel free to connect with me today.
+- 👀  I would like to offer my unique blend of experiences to an instructional design, SaaS, or product development team. Industries of interest include fintech, blockchain, real estate, eCommerce. Roles of interest include learning experience design, user training or on-boarding, business analyst, UX research, UX writing, or user testing. If you would like to talk about any of these potential areas of interest, then please feel free to connect with me today.
 
 - 🌱 Currently, I am engaging in regular self-study to learn software develop support skills to prepare for entry-level roles.
 
