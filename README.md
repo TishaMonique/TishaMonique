@@ -6,11 +6,11 @@
 
 - 💞️ For example, I've completed a number of LinkedIn Learning modules on the following sujects: QA testing process and tools, business analyst, and SQL basics. Recently, I completed a SCRUM PO certification through the Scrum Alliance and Google's UX Design Foundations module (Coursera). The past five years, I've been freelancing part-time off and on as virtual marketing support or web designer for clients and personal projects.  
 
-Relative to learning experience and content design, I wrote a <a href="https://latishagrady.com/goodbye-anxiety-book//">30-Day Anxiety Relief Survival Guide!</a> with strategies I used to overcome anxiety.  
+Relative to learning experience and content design, I wrote a <a href="https://latishagrady.com/goodbye-anxiety-book//">30-Day Anxiety Relief Survival Guide</a> with strategies I used to overcome anxiety.  
 
 - 💞️ A recent summer 2022 project was completing an urgent request for a sales event page for a local nonprofit to market and sell tickets for an important fundraising event featuring the Lt. Governor of North Carolina.  Event sold out. 
 
-- 📫 You may reach me via my website https://latishagrady.com, email: latisha@latishagrady.com, or LinkedIn: https://www.linkedin.com/in/latishagradyworkshard/
+- 📫 You may reach me via my <a href="https://latishagrady.com//>website</a>, email: latisha@latishagrady.com, or <a href="https://www.linkedin.com/in/latishagradyworkshard//">LinkedIn</a>
 
 <!---
 TishaMonique/TishaMonique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
