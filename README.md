@@ -4,7 +4,7 @@
 
 - 🌱 Currently, I am engaging in regular self-study to learn software develop support skills to prepare for entry-level roles.
 
-- 💞️ For example, I've completed a number of LinkedIn Learning modules on the following sujects: QA testing process and tools, business analyst, and SQL basics. Recently, I completed a SCRUM PO certification through the Scrum Alliance and Google's UX Design Foundations module (Coursera). The past five years, I've been freelancing part-time off and on as virtual marketing support or web designer for clients and personal projects.  
+- 🌱 For example, I've completed a number of LinkedIn Learning modules on the following sujects: QA testing process and tools, business analyst, and SQL basics. Recently, I completed a SCRUM PO certification through the Scrum Alliance and Google's UX Design Foundations module (Coursera). The past five years, I've been freelancing part-time off and on as virtual marketing support or web designer for clients and personal projects.  
 
 - 💞️Relative to learning experience, as Sr. HR Coordinator for a global manufacturing company, I conducted 50+ new hire onboarding orientations, compliance, and software trainings, annually.  
 
