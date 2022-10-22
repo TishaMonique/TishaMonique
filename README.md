@@ -10,7 +10,7 @@ Relative to learning experience and content design, I wrote a <a href="https://l
 
 - 💞️ A recent summer 2022 project was completing an urgent request for a sales event page for a local nonprofit to market and sell tickets for an important fundraising event featuring the Lt. Governor of North Carolina.  Event sold out. 
 
-- 📫 You may reach me via my <a href="https://latishagrady.com//>website</a>, email: latisha@latishagrady.com, or <a href="https://www.linkedin.com/in/latishagradyworkshard//">LinkedIn</a>
+- 📫 You may reach me via my <a href="https://latishagrady.com//">website</a>, email: latisha@latishagrady.com, or <a href="https://www.linkedin.com/in/latishagradyworkshard//">LinkedIn</a>
 
 <!---
 TishaMonique/TishaMonique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
